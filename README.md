@@ -1,4 +1,4 @@
-# ReactPicz
+# **ReactPicz**
 
 ReactPicz is a single page web-application that uses Unsplash API to fetch images and display them with a grid based system.
 
@@ -18,10 +18,15 @@ To start the application, run:
 
 Hence, the application would start at [http://localhost:3000] 
 
+### `Note: Make sure to generate your own Unsplash API Key and place it in unsplash.js component/api Directory.`
+
 ## Snapshots
 
 Before Fetching:
-![](Snapshots/Capture1.png)
+![Capture1](Snapshots/Capture1.PNG)
 
 After Fetching:
-![](Snapshots/Capture2.png)
+![Capture2](Snapshots/Capture2.PNG)
+
+On clicking images:
+![Capture3](Snapshots/Capture3.PNG)

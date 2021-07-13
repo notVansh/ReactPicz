@@ -26,7 +26,7 @@ class App extends React.Component {
         <div className="ui container" style={{ marginTop: "20px" }}>
           <h2 className="ui header" style={{ textAlign:"center" }}>ReactPicz</h2>
           <SearchBar onSubmit={this.onSearchSubmit} />
-          <div className="">
+          <div className="ui segment">
             <ImageList images={this.state.images} />
           </div>
         </div>

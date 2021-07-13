@@ -1,5 +1,5 @@
 import React from "react";
-import '../components/ImageList.css';
+import "../components/ImageList.css";
 import ImageCard from "./ImageCard";
 
 const ImageList = (props) => {
