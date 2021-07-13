@@ -21,7 +21,7 @@ Hence, the application would start at [http://localhost:3000]
 ## Snapshots
 
 Before Fetching:
-![](Snapshots/Capture1.png)
+![Capture1](Snapshots/Capture1.PNG)
 
 After Fetching:
-![](Snapshots/Capture2.png)
+![Capture2](Snapshots/Capture2.PNG)
